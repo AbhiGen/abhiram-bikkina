@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7abKGMdJq3dR8l2I/giphy.gif" alt="Jarvis Animation" width="350" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExemFnMjE3bnIwYjVodDM1OG50azFsdGJ6ZmgzM3ZsNHh0YWh2YzJrNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zK5EHMbtwfW1O/giphy.gif" alt="Jarvis Animation" width="350" />
 </p>
 
 # 💫 About Me:
